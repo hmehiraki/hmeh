@@ -1,0 +1,13 @@
+h2 {
+	color: #3268a8;
+}
+
+#links {
+	text-align: right;
+}
+
+#picture {
+	top: 100px;
+	left: 500px;
+	position: absolute;
+}
